@@ -8,5 +8,6 @@
 
 3. Run `prepare_for_inference.py` to create the dataset.
 
-Download the videos and put it in the `videos` dir
+4. Download the videos and put it in the `videos` dir
 
+5. Run `convert_to_vila_ds.py` to create the dataset.
